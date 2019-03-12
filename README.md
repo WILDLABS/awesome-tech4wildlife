@@ -1,7 +1,10 @@
 # Awesome #Tech4Wildlife
+
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+
 Curating the best conservation technology projects and resources.
 
-_Want to add something to this list? Check out the [contribution guidelines](CONTRIBUTING.md).
+_Want to add something to this list? Check out the [contribution guidelines](CONTRIBUTING.md)._
 
 ## Contents
 
