@@ -2,15 +2,7 @@
 
 Please note that this project is released with a set of [Community Guidelines](CODE_OF_CONDUCT.md). By participating in this project you agree to abide by its terms.
 
-## Adding an awesome list
-
-Please ensure your pull request adheres to the [list guidelines](pull_request_template.md).
-
-## Creating your own awesome list
-
-To create your own list, check out the [instructions](create-list.md).
-
-## Adding something to an awesome list
+## Adding something to this list
 
 If you have something awesome to contribute to an awesome list, this is how you do it.
 
