@@ -8,8 +8,10 @@ Find out more [here](https://www.wildlabs.net/community/thread/679).
 _Want to add something to this list? Check out the [contribution guidelines](CONTRIBUTING.md)._
 
 ## Contents
+- [Repositories](#repositories)
+- [Members](#members)
 
-### Respositories
+### Repositories
 - [Open Acoustic Devices](https://github.com/OpenAcousticDevices): The team responsible for the creation of the AudioMoth and all its supporting software.
   - Related: [Tessa Rhinehart's Audiomoth User guide](https://github.com/rhine3/audiomoth-guide/blob/master/guide.md)
 - [Arribada Initative](https://github.com/arribada): 
